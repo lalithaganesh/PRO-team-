@@ -4,7 +4,7 @@ import React, {useState} from 'react';
 import HomeDefault from './HomeDefault';
 import SplashScreen from './splashscreen';
 //this app.js file
-
+//sdxfchgjhjhgcfx
 function App() {
   const[loading,setLoading]=useState(true);
   return (
