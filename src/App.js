@@ -5,6 +5,7 @@ import HomeDefault from './HomeDefault';
 import SplashScreen from './splashscreen';
 //this app.js file
 //sdxfchgjhjhgcfx
+//pro team
 function App() {
   const[loading,setLoading]=useState(true);
   return (
